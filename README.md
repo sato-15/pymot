@@ -9,6 +9,10 @@ The *MOTA* accounts for all object configuration errors made by the tracker, fal
 
 This is a python implementation which determines the *MOTP* and *MOTA* metrics from a set of ground truth tracks and a set of hypothesis tracks given by the tracker to be evaluated.
 
+## How to install
+
+See [here](./installation.md) with Python 2 and pyenv.
+
 ## Usage
 **pymot** can be used both as a script and a python class to use from your own code.
 ```
